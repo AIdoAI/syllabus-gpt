@@ -2,21 +2,6 @@
 
 All notable changes and improvements from the original PDF chatbot project.
 
-## [1.0.1] - 2026-01-23
-
-### 🐛 Bug Fixes
-- **Fixed Version Compatibility Issue**: Resolved "Client.init() got an unexpected keyword argument 'proxies'" error
-  - Updated to `langchain-openai==0.1.7` for OpenAI integrations
-  - Updated `langchain==0.1.20` and `langchain-community==0.0.38`
-  - Updated `openai==1.30.1` for compatibility
-  - Changed imports from `langchain_community.embeddings` to `langchain_openai`
-  - Updated all example scripts and Colab notebook
-
-### 📝 Documentation
-- Added `TROUBLESHOOTING.md` with solutions to common errors
-- Updated Colab notebook with correct package versions
-- Added version compatibility matrix
-
 ## [1.0.0] - 2026-01-22
 
 ### 🎯 Project Rebrand
