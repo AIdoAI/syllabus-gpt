@@ -27,7 +27,15 @@ Unlike generic PDF chatbots, **Syllabus-GPT** is specifically designed for stude
 
 ## 📸 Demo
 
-![Syllabus-GPT Interface](demo.png)
+> 📝 **Screenshot Coming Soon!** Run the app locally to see it in action. See [DEMO_SCREENSHOT.md](DEMO_SCREENSHOT.md) for instructions.
+
+**What You'll See:**
+- Clean, academic-themed interface
+- Natural language question input
+- AI-powered answers with **automatic source citations**
+- Example: *"What is the grading breakdown?" → Answer with citation: "📄 CS301_AI_Syllabus.pdf (p. 1)"*
+
+Try it yourself with the sample syllabus in `examples/sample_syllabi/`!
 
 ## 🛠️ Installation
 
